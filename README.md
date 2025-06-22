@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # Termux VS Code Server Control (Fire Max 11)
 
 ![Platform](https://img.shields.io/badge/platform-Fire%20Max%2011-orange)
