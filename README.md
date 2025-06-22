@@ -1,5 +1,10 @@
 # Termux VS Code Server Control (Fire Max 11)
 
+![Platform](https://img.shields.io/badge/platform-Fire%20Max%2011-orange)
+![Launcher](https://img.shields.io/badge/launcher-Microsoft_Launcher-blue)
+![Termux](https://img.shields.io/badge/Termux-Widget-green)
+![Status](https://img.shields.io/badge/code--server-ready-brightgreen)
+
 This project provides simple bash scripts and Termux:Widget shortcuts to start, stop, toggle, and check the status of a locally hosted `code-server` (VS Code in the browser) running inside Termux.
 
 > ✅ Tested on **Amazon Fire Max 11** using **Fire OS 8.3.3.4** and **Microsoft Launcher** for widget access.
