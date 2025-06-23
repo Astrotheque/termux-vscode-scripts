@@ -44,23 +44,23 @@ termux-vscode-scripts/
 ## 🔧 Setup Instructions
 
 ### 1. Clone the Repo
-\`\`\`bash
+```bash
 git clone https://github.com/Astrotheque/termux-vscode-scripts.git
 cd termux-vscode-scripts
 chmod +x *.sh .shortcuts/*
-\`\`\`
+```
 
 ### 2. Copy or Symlink the Shortcuts
-\`\`\`bash
+```bash
 mkdir -p ~/.shortcuts
 cp .shortcuts/* ~/.shortcuts/
-\`\`\`
+```
 
 ### 3. Install Required Termux Packages
-\`\`\`bash
+```bash
 pkg install nodejs
 npm install -g code-server
-\`\`\`
+```
 
 ---
 
