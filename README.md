@@ -26,7 +26,7 @@ Each script has a matching `.shortcuts/` entry for widget launching.
 
 ## 🧱 Folder Structure
 
-\`\`\`
+```
 termux-vscode-scripts/
 ├── start-code-server.sh
 ├── stop-code-server.sh
