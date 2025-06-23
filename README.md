@@ -37,7 +37,7 @@ termux-vscode-scripts/
     ├── Stop VS Code
     ├── Toggle VS Code
     └── VS Code Status
-\`\`\`
+```
 
 ---
 
