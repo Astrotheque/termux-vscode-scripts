@@ -74,6 +74,36 @@ npm install -g code-server
 
 ---
 
+## 🖥️ Using Termux
+
+This project was built and tested using the **Termux** terminal emulator for Android.
+
+**Tested Termux Version:**
+- `v0.118.0` (installed directly from the official [Termux GitHub repository](https://github.com/termux/termux-app))
+
+**Recommended Installation Source:**
+
+✅ **GitHub Releases** ([secure and up-to-date](https://github.com/termux/termux-app/releases))  
+❌ **Do not use the Play Store version** — it is outdated and unsupported.
+
+---
+
+### 🛠️ Initial Setup Notes:
+
+Run Updates:
+```bash
+pkg update && pkg upgrade
+
+Grant storage permissions:
+```bash
+termux-setup-storage
+
+Install required packages before using scripts:
+```bash
+pkg install git nodejs openssh
+
+---
+
 ## 🧩 Using Termux:Widget
 
 ### 🔹 Fire OS (Fire Max 11) Note
@@ -108,3 +138,31 @@ MIT License
 
 Astrotheque  
 [https://github.com/Astrotheque](https://github.com/Astrotheque)
+
+<p align="center">
+  <details>
+    <summary><strong>Trademark & Affiliation Notice</strong></summary>
+    <br>
+
+    <p align="center">
+      <em>Termux is developed by the open-source community and is not affiliated with 
+      <a href="https://www.amazon.com">Amazon</a>, 
+      <a href="https://www.microsoft.com">Microsoft</a>, or 
+      <a href="https://about.google/">Google</a>.</em>
+    </p>
+
+    <p align="center">
+      “Amazon,” “Fire,” “Fire OS,” and “Fire Max 11” are trademarks of 
+      <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201909000">Amazon.com, Inc. or its affiliates</a>.
+    </p>
+    <p align="center">
+      “Google Play” and “Google Play Store” are trademarks of 
+      <a href="https://about.google/brand-resource-center/logos-list/">Google LLC</a>.
+    </p>
+    <p align="center">
+      “Microsoft” is a trademark of the 
+      <a href="https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/">Microsoft group of companies</a>.
+    </p>
+    <br>
+  </details>
+</p>
