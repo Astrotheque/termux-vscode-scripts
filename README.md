@@ -93,14 +93,15 @@ This project was built and tested using the **Termux** terminal emulator for And
 Run Updates:
 ```bash
 pkg update && pkg upgrade
-
+```
 Grant storage permissions:
 ```bash
 termux-setup-storage
-
+```
 Install required packages before using scripts:
 ```bash
 pkg install git nodejs openssh
+```
 
 ---
 
@@ -138,6 +139,8 @@ MIT License
 
 Astrotheque  
 [https://github.com/Astrotheque](https://github.com/Astrotheque)
+
+---
 
 <p align="center">
   <details>
