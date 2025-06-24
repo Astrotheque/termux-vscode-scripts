@@ -142,30 +142,20 @@ Astrotheque
 
 ---
 
-<p align="center">
-  <details>
-    <summary><strong>Trademark & Affiliation Notice</strong></summary>
-    <br>
+<details>
+<summary><strong>Trademark & Affiliation Notice</strong></summary>
 
-    <p align="center">
-      <em>Termux is developed by the open-source community and is not affiliated with 
-      <a href="https://www.amazon.com">Amazon</a>, 
-      <a href="https://www.microsoft.com">Microsoft</a>, or 
-      <a href="https://about.google/">Google</a>.</em>
-    </p>
+**Termux** is developed by the open-source community and is not affiliated with  
+[Amazon](https://www.amazon.com), [Microsoft](https://www.microsoft.com), or [Google](https://about.google/).
 
-    <p align="center">
-      “Amazon,” “Fire,” “Fire OS,” and “Fire Max 11” are trademarks of 
-      <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201909000">Amazon.com, Inc. or its affiliates</a>.
-    </p>
-    <p align="center">
-      “Google Play” and “Google Play Store” are trademarks of 
-      <a href="https://about.google/brand-resource-center/logos-list/">Google LLC</a>.
-    </p>
-    <p align="center">
-      “Microsoft” is a trademark of the 
-      <a href="https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/">Microsoft group of companies</a>.
-    </p>
-    <br>
-  </details>
-</p>
+“Amazon,” “Fire,” “Fire OS,” and “Fire Max 11” are trademarks of  
+[Amazon.com, Inc. or its affiliates](https://www.amazon.com/gp/help/customer/display.html?nodeId=201909000).
+
+“Google Play” and “Google Play Store” are trademarks of  
+[Google LLC](https://about.google/brand-resource-center/logos-list/).
+
+“Microsoft” is a trademark of the  
+[Microsoft group of companies](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/).
+
+</details>
+
