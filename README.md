@@ -88,7 +88,7 @@ This project was built and tested using the **Termux** terminal emulator for And
 
 ---
 
-### 🛠️ Initial Setup Notes:
+### 🛠️ Termux Initial Setup Notes:
 
 Run Updates:
 ```bash
@@ -102,6 +102,12 @@ Install required packages before using scripts:
 ```bash
 pkg install git nodejs openssh
 ```
+
+---
+
+###   Code-Server Initial Setup Notes:
+
+[Setup  Guide for Code-Server on Fire Max 11](https://raw.githubusercontent.com/Astrotheque/termux-vscode-scripts/main/code-server-fire-android-guide.md)
 
 ---
 
