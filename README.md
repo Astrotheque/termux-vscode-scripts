@@ -13,7 +13,7 @@ This project provides simple bash scripts and Termux:Widget shortcuts to start, 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Compatible%20with-Fire%20OS%20and%20Fire%20Max%2011-orange?logo=amazon&logoColor=white&style=flat-square" alt="Fire OS and Fire Max 11 Compatibility Badge">
+  <img src="https://img.shields.io/badge/Compatible%20with-Fire%20OS%208%20and%20Fire%20Max%2011%20(2023)-orange?logo=amazon&logoColor=white&style=flat-square" alt="Fire OS and Fire Max 11 Compatibility Badge">
 </p>
 
 <p align="center">
