@@ -13,16 +13,15 @@ This project provides simple bash scripts and Termux:Widget shortcuts to start, 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Amazon%20Fire%20Max%2011-Trademark%20of%20Amazon.com,%20Inc.-orange?logo=amazon&logoColor=white&style=flat-square" alt="Amazon Fire Max 11 Trademark Notice">
+  <img src="https://img.shields.io/badge/Compatible%20with-Fire%20OS%20and%20Fire%20Max%2011-orange?logo=amazon&logoColor=white&style=flat-square" alt="Fire OS and Fire Max 11 Compatibility Badge">
 </p>
 
 <p align="center">
-  <sub>“Amazon Fire” and “Fire Max 11” are trademarks of Amazon.com, Inc. or its affiliates.</sub>
+  <sub>“Amazon”, “Fire”, “Fire OS”, and “Fire Max 11” are trademarks of Amazon.com, Inc. or its affiliates.</sub>
 </p>
 
 ---
 
----
 
 ## 📦 Features
 
