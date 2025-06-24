@@ -145,6 +145,7 @@ Astrotheque
 <details>
 <summary><strong>Trademark & Affiliation Notice</strong></summary>
 
+
 **Termux** is developed by the open-source community and is not affiliated with  
 [Amazon](https://www.amazon.com), [Microsoft](https://www.microsoft.com), or [Google](https://about.google/).
 
@@ -159,3 +160,4 @@ Astrotheque
 
 </details>
 
+---
