@@ -107,7 +107,7 @@ pkg install git nodejs openssh
 
 ###   Code-Server Initial Setup Notes:
 
-[Setup  Guide for Code-Server on Fire Max 11](https://raw.githubusercontent.com/Astrotheque/termux-vscode-scripts/main/code-server-fire-android-guide.md)
+[📄 Setup Guide for Code Server on Fire Max 11](https://github.com/Astrotheque/termux-vscode-scripts/blob/main/code-server-fire-android-guide.md)
 
 ---
 
