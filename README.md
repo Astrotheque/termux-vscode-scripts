@@ -1,6 +1,6 @@
 ![Banner](banner.png)
 
-# Termux VS Code Server Control (Fire Max 11)
+# Termux VS Code Server Control
 
 ![Platform](https://img.shields.io/badge/platform-Fire%20Max%2011-orange)
 ![Launcher](https://img.shields.io/badge/launcher-Microsoft_Launcher-blue)
@@ -10,6 +10,17 @@
 This project provides simple bash scripts and Termux:Widget shortcuts to start, stop, toggle, and check the status of a locally hosted `code-server` (VS Code in the browser) running inside Termux.
 
 > ✅ Tested on **Amazon Fire Max 11** using **Fire OS 8.3.3.4** and **Microsoft Launcher** for widget access.
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Amazon%20Fire%20Max%2011-Trademark%20of%20Amazon.com,%20Inc.-orange?logo=amazon&logoColor=white&style=flat-square" alt="Amazon Fire Max 11 Trademark Notice">
+</p>
+
+<p align="center">
+  <sub>“Amazon Fire” and “Fire Max 11” are trademarks of Amazon.com, Inc. or its affiliates.</sub>
+</p>
+
+---
 
 ---
 
